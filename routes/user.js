@@ -33,7 +33,7 @@ router.get(
     "/auth/google/callback",
     passport.authenticate("google", { failureRedirect: "/login" }),
     (req, res) => {
-      req.flash("success", "Welcome to Wanderlust via Google!");
+      req.flash("success", "Welcome to StayScape via Google!");
       res.redirect("/listings");
     }
   );
