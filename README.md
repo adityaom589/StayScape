@@ -19,7 +19,7 @@ Together, StayScape represents the idea of finding your perfect stay with a view
 - 🔍 Browse and search vacation listings
 - 🏠 Create, edit, and delete listings with image uploads
 - ⭐ Leave reviews and star ratings on listings
-- 🔐 User authentication with Passport.js (Local + Google OAuth)
+- 🔐 User authentication  (Local + Google OAuth)
 - 🖼️ Cloudinary integration for image uploads
 - 🗺️ Location-based listing display
 - 📱 Fully responsive design with Bootstrap
@@ -49,7 +49,7 @@ Together, StayScape represents the idea of finding your perfect stay with a view
 | Database | MongoDB, Mongoose |
 | Frontend | EJS Templates, Bootstrap 5 |
 | Authentication | Passport.js (Local + Google OAuth 2.0) |
-| File Storage | Cloudinary + Multer |
+| File Storage | Cloudinary|
 | Validation | Joi |
 | Session | Express-Session |
 
